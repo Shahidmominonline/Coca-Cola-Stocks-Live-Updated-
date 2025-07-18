@@ -34,7 +34,7 @@ This project analyzes historical Coca-Cola (KO) stock data to:
 
 * Visualizations: Line Plots, volume-price correlation and yield calculation.
 
-Statistical Analysis: Skewness (1.38), kurtosis (1.17), variance (225.98).
+* Statistical Analysis: Skewness (1.38), kurtosis (1.17), variance (225.98).
 
 **3. Time-Series Decomposition**
 
